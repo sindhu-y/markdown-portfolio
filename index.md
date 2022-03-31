@@ -6,7 +6,9 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+{% include 02-image.md %}alt text
+![Image of Yaktocat
+
 
 <br>
 
